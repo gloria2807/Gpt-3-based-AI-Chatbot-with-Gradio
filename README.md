@@ -1,2 +1,3 @@
 # Gpt-3-based-AI-Chatbot-with-Gradio
-An AI Chatbot with text and voice functionality based on GPT-3; built with python and gradio
+Glow - A speech to speech voice recognition AI Chatbot
+built using python and gradio
